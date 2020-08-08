@@ -1,0 +1,30 @@
+html
+{
+  max-width: 100%;
+  max-height: 100%;
+}
+
+h1,
+h2,
+h3,
+p,
+ul
+ {
+  margin-left: 40px;
+  margin-top: 20px;
+  margin-right: 40px;
+  margin-bottom: 20px;
+  font-family: Helvetica;
+  line-height: 1.5;
+}
+
+img
+{
+  height: 100px;
+  width: auto;
+}
+
+header
+{
+  background-color: #44d9e6;
+}

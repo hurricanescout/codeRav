@@ -1,0 +1,12 @@
+CSS beginnings
+Header Aileron Heavy 45.3
+Sub header Aileron regular 10.9
+Background hex #44d9e6
+
+To do:
+Create files for future posts
+There is no shortage of companies out there willing to take our money in exchange for
+a promise of a job. They range, from $25 to $200 a month for programs you do on your own,
+up to $17k for a HackReact
+
+style="width:82px; height:86px"
